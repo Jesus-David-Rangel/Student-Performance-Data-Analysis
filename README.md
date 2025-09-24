@@ -1,7 +1,3 @@
-Aquí tienes la traducción en español, respetando el formato Markdown original:
-
----
-
 Este PR implementa un proyecto integral de análisis de datos estudiantiles que responde preguntas clave sobre el rendimiento académico utilizando Python y la metodología CRISP-DM. La implementación aborda los requisitos del proyecto para analizar datos de rendimiento estudiantil e identificar factores que influyen en el éxito académico.
 
 ## 📊 Qué Incluye
