@@ -4,10 +4,8 @@ Este PR implementa un proyecto integral de análisis de datos estudiantiles que 
 
 **Marco de Análisis Completo:**
 
-* Notebook de Jupyter con exploración y visualización de datos interactiva
-* Script en Python independiente para análisis desde la línea de comandos
+* Notebook de Jupyter con exploración y visualización de datos
 * Conjunto de datos de ejemplo con 105 registros y 14 variables que cubren materias de matemáticas e ingeniería
-* Modelo de machine learning para predicción de rendimiento (R² = 0.999)
 
 **Cinco Preguntas de Investigación Respondidas:**
 
@@ -38,5 +36,3 @@ Este PR implementa un proyecto integral de análisis de datos estudiantiles que 
 
 * **Para Instituciones**: Enfocar recursos en la enseñanza de Análisis Funcional, implementar incentivos de asistencia, abordar la equidad de género
 * **Para Estudiantes**: Mantener asistencia constante, buscar tutorías en materias desafiantes, aprovechar fortalezas en estadística
-
-¿Quieres que también te lo prepare en **versión bilingüe** (inglés y español en paralelo) para documentación más formal?
