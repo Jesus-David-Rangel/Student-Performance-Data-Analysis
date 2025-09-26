@@ -68,13 +68,6 @@ Student-Data-Analysis-with-Python/
 4. **Análisis de GPA**: Promedio general de 82.30 con desglose estadístico completo
 5. **Rendimiento por Género**: Diferencia significativa encontrada (mujeres: 89.50, hombres: 74.97, p < 0.001)
 
-**Tecnologías Utilizadas:**
-
-* Pandas & NumPy para manipulación de datos
-* Matplotlib & Seaborn para visualizaciones
-* Scikit-learn para modelado predictivo
-* SciPy para pruebas estadísticas
-
 ## 📈 Hallazgos Clave e Impacto
 
 **Insights Basados en Datos:**
