@@ -1,4 +1,57 @@
-Este PR implementa un proyecto integral de análisis de datos estudiantiles que responde preguntas clave sobre el rendimiento académico utilizando Python y la metodología CRISP-DM. La implementación aborda los requisitos del proyecto para analizar datos de rendimiento estudiantil e identificar factores que influyen en el éxito académico.
+# 📊 Student Data Analysis with Python
+
+¡Bienvenido al proyecto **Student Data Analysis with Python**! 🚀  
+Este repositorio contiene un análisis detallado de datos estudiantiles utilizando Python y sus poderosas librerías para ciencia de datos.
+
+---
+
+## 📝 Descripción
+
+Este proyecto explora un conjunto de datos de estudiantes, realizando análisis estadístico, limpieza de datos y visualizaciones. El objetivo es comprender patrones, tendencias y factores relevantes que afectan el rendimiento estudiantil.
+
+---
+
+## 🎯 Objetivos
+
+- Analizar datos estudiantiles para identificar correlaciones y tendencias.
+- Aplicar técnicas de limpieza y pre-procesamiento de datos.
+- Visualizar la información de manera clara y atractiva.
+- Extraer conclusiones útiles para mejorar la comprensión de los datos educativos.
+
+---
+
+## 🛠️ Tecnologías y Librerías Usadas
+
+- **Python 3.11** 🐍
+- **Jupyter Notebook** 📓
+- **Pandas** (gestión y manipulación de datos) 🗂️
+- **NumPy** (operaciones matemáticas y estadísticas) ➗
+- **Matplotlib** (visualización de datos) 📈
+- **Seaborn** (gráficos estadísticos avanzados) 🌊
+
+> Asegúrate de tener estas librerías instaladas antes de ejecutar el notebook.
+
+---
+
+## 📂 Estructura del repositorio
+
+```
+Student-Data-Analysis-with-Python/
+│
+├── Student_Data_Analysis.ipynb
+├── README.md
+```
+
+---
+
+## 🧐 Análisis y Conclusiones
+
+- Se realizaron estadísticas descriptivas para entender la distribución y características principales de los datos.
+- El proceso de limpieza permitió eliminar inconsistencias y valores nulos, mejorando la calidad del análisis.
+- Las visualizaciones ayudaron a detectar relaciones entre variables como edad, género y rendimiento académico.
+- Se identificaron posibles áreas de mejora para futuras investigaciones y recomendaciones para optimizar el desempeño estudiantil.
+
+---
 
 ## 📊 Qué Incluye
 
@@ -36,3 +89,19 @@ Este PR implementa un proyecto integral de análisis de datos estudiantiles que 
 
 * **Para Instituciones**: Enfocar recursos en la enseñanza de Análisis Funcional, implementar incentivos de asistencia, abordar la equidad de género
 * **Para Estudiantes**: Mantener asistencia constante, buscar tutorías en materias desafiantes, aprovechar fortalezas en estadística
+
+## 📢 ¡Contribuye!
+
+¿Tienes ideas para mejorar el análisis? ¡No dudes en hacer un fork y enviar tus sugerencias! 🙌
+
+---
+
+## ⚖️ Licencia
+
+Este proyecto está bajo la licencia MIT.
+
+## 👤 Autor
+
+- [Jesus-David-Silva-Rangel-19](https://github.com/Jesus-David-Silva-Rangel-19)
+
+---
