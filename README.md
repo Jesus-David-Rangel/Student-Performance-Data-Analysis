@@ -1,4 +1,6 @@
-### 📊 **Análisis de Desempeño Estudiantil para la Mejora Educativa**
+### **Análisis de Desempeño Estudiantil para la Mejora Educativa**
+
+**Descripción del Proyecto:**
 
 Este proyecto aborda el análisis de datos académicos con el propósito de identificar los factores que influyen en el rendimiento estudiantil y generar recomendaciones estratégicas orientadas a la mejora educativa. Mediante el uso de Python y sus principales librerías de análisis y visualización de datos, se desarrolló un estudio descriptivo y exploratorio que permite comprender cómo variables como la asistencia, el género y el dominio en asignaturas específicas impactan en los resultados académicos.
 
@@ -11,6 +13,8 @@ En conjunto, los hallazgos de este análisis ofrecen una base sólida para la to
 ---
 
 ### 📈 **Student Performance Analysis for Educational Improvement**
+
+**Project Description:**
 
 This project focuses on analyzing academic data to identify the key factors influencing student performance and to develop evidence-based strategies for educational enhancement. Using Python and its data analysis libraries, a comprehensive exploratory study was conducted to understand how variables such as attendance, gender, and subject proficiency impact academic achievement.
 
