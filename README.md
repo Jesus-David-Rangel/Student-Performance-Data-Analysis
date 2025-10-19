@@ -12,7 +12,7 @@ En conjunto, los hallazgos de este análisis ofrecen una base sólida para la to
 
 ---
 
-### 📈 **Student Performance Analysis for Educational Improvement**
+### **Student Performance Analysis for Educational Improvement**
 
 **Project Description:**
 
